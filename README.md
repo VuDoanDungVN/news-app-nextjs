@@ -12,6 +12,17 @@ yarn dev
 pnpm dev
 ```
 
+-------------------------------------
+echo "# news-app-nextjs" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/VuDoanDungVN/news-app-nextjs.git
+git push -u origin main
+
+----------------------------------------
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
