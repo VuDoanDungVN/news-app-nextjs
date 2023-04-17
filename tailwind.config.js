@@ -15,4 +15,11 @@ module.exports = {
     },
   },
   plugins: [],
+  utilities: {
+    'hover:underline': {
+      'hover': {
+        'textDecoration': 'underline',
+      },
+    },
+  },
 }
